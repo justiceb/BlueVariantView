@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="19008000">
+<Library LVVersion="20008000">
 	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
 	<Property Name="Alarm Database Name" Type="Str">C__Program_Files__x86__National_Instruments_LabVIEW_2019_data</Property>
 	<Property Name="Alarm Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2019\data</Property>
@@ -9,8 +9,8 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2019\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*C!!!*Q(C=\&gt;7R&lt;2N"%)8B&gt;Y9$BTR!I1+$I&gt;.*(&lt;)&amp;N4!N%&amp;"%!Q&lt;-!JQ-Y!L9!FO9&amp;BCI!=+2QZ0_81U/*#69$G49A@;U&amp;0HW&gt;P&lt;DXO%I^@:"?K`\F^KPX\9`'T]N&gt;&gt;0;\=8YU&amp;K.@[+&gt;D40T=&lt;S@@,NJ\7R]K0'K-&amp;WM@T[`D]_)J_MT0EUTYKG`TZ]2TXX`[14RX)Z/]QN.&lt;_WN`&gt;OW?@%:=.&amp;?HT#I09DI31_[UUVNK@ME4`)E4`)E4`)A$`)A$`)A$X)H&gt;X)H&gt;X)H&gt;X)D.X)D.X)D.`*_E)N=Z#+(F#S?,*1541IE*U.2]J*Y%E`C34R]6/**0)EH]31?4F(C34S**`%E(K9J]33?R*.Y%A_FOC4\19YH]6"?A3@Q"*\!%XB95I%H!!3,"97$)D!5$!:P!E`A#4S]6?!*0)%H]!1?BB6Y!E`A#4S"BSF^6[*LWE'/BT*S0)\(]4A?RU.J/2\(YXA=D_.B/4E?R_-AH!7&gt;YB$E4(*/=$YY(M@$0TE?R_.Y()`D9;B@)?]\UT4N)-&gt;D?!S0Y4%]BI=3-DS'R`!9(M.$72E?QW.Y$)`B93E:(M.D?!S)M3D,SSBG4$2/-A,$QV_`7[R@J?A3[Y&gt;5.[`KJF4&gt;&lt;+K&lt;3(6TK#[[[G+K,J*K]V7&lt;KNIMV3;IPJQ+L=+I&amp;F&amp;.&lt;C@KS/O"PK@P[&amp;P[GHZ$8^'8^,&amp;.@?54D]?D$I?$^PO^&gt;LO&gt;NNONVOOV_0(6;L83=LH5/)\T9_!DR`R!?(QO&lt;8D@_L?@'LYO.0SY`DR]PVLQ@](H;`,R&lt;K0&amp;F\`U7`I@0"PV4K&gt;VW;-(^I!&gt;0Q!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*C!!!*Q(C=\&gt;7R&lt;2N"%)8B&gt;Y9$BTR!I1+$I&gt;.*(&lt;)&amp;N4!N%&amp;"%!Q&lt;-!JQ-Y!L9!FO9&amp;BCI!=+2QZ0_81U/*#69$G49A@;U&amp;0HW&gt;P&lt;DXO%I^@:"?K`\F^KPX\9`'T]N&gt;&gt;0;\=8YU&amp;K.@[+&gt;D40T=&lt;S@@,NJ\7R]K0'K-&amp;WM@T[`D]_)J_MT0EUTYKG`TZ]2TXX`[14RX)Z/]QN.&lt;_WN`&gt;OW?@%:=.&amp;?HT#I09DI31_[UUVNK@ME4`)E4`)E4`)A$`)A$`)A$X)H&gt;X)H&gt;X)H&gt;X)D.X)D.X)D.`*_E)N=Z#+(F#S?,*1541IE*U.2]J*Y%E`C34R]6/**0)EH]31?4F(C34S**`%E(K9J]33?R*.Y%A_FOC4\19YH]6"?A3@Q"*\!%XB95I%H!!3,"97$)D!5$!:P!E`A#4S]6?!*0)%H]!1?BB6Y!E`A#4S"BSF^6[*LWE'/BT*S0)\(]4A?RU.J/2\(YXA=D_.B/4E?R_-AH!7&gt;YB$E4(*/=$YY(M@$0TE?R_.Y()`D9;B@)?]\UT4N)-&gt;D?!S0Y4%]BI=3-DS'R`!9(M.$72E?QW.Y$)`B93E:(M.D?!S)M3D,SSBG4$2/-A,$QV_`7[R@J?A3[Y&gt;5.[`KJF4&gt;&lt;+K&lt;3(6TK#[[[G+K,J*K]V7&lt;KNIMV3;IPJQ+L=+I&amp;F&amp;.&lt;C@KS/O"PK@P[&amp;P[GHZ$8^'8^,&amp;.@?54D]?D$I?$^PO^&gt;LO&gt;NNONVOOV_0(6;L83=LH5/)\T9_!DR`R!?(QO&lt;8D@_L?@'LYO.0SY`DR]PVLQ@](H;`,R&lt;K0&amp;F\`U7`I@0"PV4K&gt;VW;-(^I!&gt;0Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -32,11 +32,12 @@
 	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
 	<Property Name="OdbcUsername" Type="Str"></Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
-	<Property Name="Serialized ACL" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Options.ctl" Type="VI" URL="../API/Typedefs/Options.ctl"/>
+			<Item Name="TreeData.ctl" Type="VI" URL="../API/Typedefs/TreeData.ctl"/>
 		</Item>
 		<Item Name="Init.vi" Type="VI" URL="../API/Init.vi"/>
 		<Item Name="Write.vi" Type="VI" URL="../API/Write.vi"/>
@@ -56,6 +57,7 @@
 			<Item Name="DecomposedObject.ctl" Type="VI" URL="../Support/DecomposedObject.ctl"/>
 			<Item Name="DecomposedVariant.ctl" Type="VI" URL="../Support/DecomposedVariant.ctl"/>
 			<Item Name="DecomposedMap.ctl" Type="VI" URL="../Support/DecomposedMap.ctl"/>
+			<Item Name="LoopData.ctl" Type="VI" URL="../Support/LoopData.ctl"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Array Metadata.vi" Type="VI" URL="../Support/Array Metadata.vi"/>
@@ -68,6 +70,8 @@
 			<Item Name="Write Color.vi" Type="VI" URL="../Support/Write Color.vi"/>
 			<Item Name="IsErrorCluster.vi" Type="VI" URL="../Support/IsErrorCluster.vi"/>
 			<Item Name="SelectChildTag.vi" Type="VI" URL="../Support/SelectChildTag.vi"/>
+			<Item Name="StringArrayToScalar.vi" Type="VI" URL="../Support/StringArrayToScalar.vi"/>
+			<Item Name="Build Item Array Calc Child.vi" Type="VI" URL="../Support/Build Item Array Calc Child.vi"/>
 		</Item>
 	</Item>
 </Library>
