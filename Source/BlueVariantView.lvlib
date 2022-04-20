@@ -38,6 +38,7 @@
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Options.ctl" Type="VI" URL="../API/Typedefs/Options.ctl"/>
 			<Item Name="TreeData.ctl" Type="VI" URL="../API/Typedefs/TreeData.ctl"/>
+			<Item Name="ValueOptions.ctl" Type="VI" URL="../API/Typedefs/ValueOptions.ctl"/>
 		</Item>
 		<Item Name="Init.vi" Type="VI" URL="../API/Init.vi"/>
 		<Item Name="Write.vi" Type="VI" URL="../API/Write.vi"/>
@@ -72,6 +73,7 @@
 			<Item Name="SelectChildTag.vi" Type="VI" URL="../Support/SelectChildTag.vi"/>
 			<Item Name="StringArrayToScalar.vi" Type="VI" URL="../Support/StringArrayToScalar.vi"/>
 			<Item Name="Build Item Array Calc Child.vi" Type="VI" URL="../Support/Build Item Array Calc Child.vi"/>
+			<Item Name="Value Options Calc.vi" Type="VI" URL="../Support/Value Options Calc.vi"/>
 		</Item>
 	</Item>
 </Library>
